@@ -1,7 +1,7 @@
 # CodeQnA
 Making a Database using SQL statement from ERD Diagram in Database Foundations
 The problem-solution web page is called ‘CodeQnA’.
-
+<img src="https://github.com/Bea-Jae-Kyeong/CodeQnA/blob/main/erdplus-diagram.png?raw=true"></img>
 Programmers are the clients of my web page. When they have an issue or a
 problem, they can post their doubts on the page. They can also answer freely
 when they know the solution to the problem. Users can search the posting by
